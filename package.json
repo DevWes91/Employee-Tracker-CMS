@@ -1,0 +1,16 @@
+{
+    "name": "employee-tracker-cms",
+    "version": "1.0.0",
+    "description": "A command-line CMS for managing employees",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "inquirer": "^8.2.4",
+      "pg": "^8.7.1",
+      "dotenv": "^16.0.0",
+      "console.table": "^0.10.0"
+    }
+  }
+  
