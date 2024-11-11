@@ -13,8 +13,6 @@ A command-line Content Management System (CMS) for managing company employees, d
 - Delete departments, roles, and employees
 
 ## Installation
-1. Clone the repository
-```bash
 git clone <repository-url>
 2. Install dependencies
 npm install
